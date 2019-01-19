@@ -220,3 +220,15 @@
 [submodule "lib/module/barco-eventmaster-xml"]
 	path = lib/module/barco-eventmaster-xml
 	url = https://github.com/bitfocus/companion-module-barco-eventmaster-xml.git
+[submodule "lib/module/matrox-monarch"]
+	path = lib/module/matrox-monarch
+	url = https://github.com/epicsf/companion-module-matrox-monarch.git
+[submodule "lib/module/aja-kipro"]
+	path = lib/module/aja-kipro
+	url = https://github.com/bitfocus/companion-module-aja-kipro.git
+[submodule "lib/module/christie-wd"]
+	path = lib/module/christie-wd
+	url = https://github.com/bitfocus/companion-module-christie-wd.git
+[submodule "lib/module/justmacros-lua"]
+	path = lib/module/justmacros-lua
+	url = https://github.com/bitfocus/companion-module-justmacros-lua.git
